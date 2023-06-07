@@ -1,0 +1,15 @@
+*~
+.*.sw*
+*.exe
+*.dll
+*.cache
+*.nuspec
+*.json
+*.log
+*.suo
+*.pdb
+*.pdf
+packages/
+s4cli/bin/
+s4cli/obj/
+.vs/
